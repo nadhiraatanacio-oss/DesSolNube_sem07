@@ -1,0 +1,21 @@
+{
+  "usuarios": [
+    {
+      "usuario": "admin",
+      "clave": "admin123"
+    }
+  ],
+  "productos": [
+    {
+      "id": 6,
+      "nombre": "Camara",
+      "precio": 350
+    },
+    {
+      "id": 7,
+      "nombre": "Celular",
+      "precio": 800
+    }
+  ],
+  "siguienteId": 8
+}
